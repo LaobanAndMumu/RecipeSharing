@@ -17,7 +17,8 @@ package.json
     
 |---functions
 
-
+## Prerequisites
+Node.js
 
 ## Install
 To install all the dependencies 
