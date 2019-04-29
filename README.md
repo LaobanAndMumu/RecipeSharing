@@ -1,5 +1,5 @@
 # Recipe Sharing App
-This project is created with *create-react-app*. Then this project uses Progressive Web App to implement native-app features, add to home button, push notification, and offline synchronization. 
+This project, created with *create-react-app*, is imoplemented with React. Then this project uses Progressive Web App to implement native-app features, add to home button, push notification, and offline synchronization. 
 
 ## Install
     npm install
