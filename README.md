@@ -1,5 +1,5 @@
 # Recipe Sharing App
-This project is reated with *create-react-app*
+This project is created with *create-react-app*
 
 ## Install
     npm install
