@@ -2,12 +2,15 @@
 This project, created with *create-react-app*, is imoplemented with React. Then this project uses Progressive Web App to implement native-app features, add to home button, push notification, and offline synchronization. 
 
 ## Install
+To install all the dependencies 
     npm install
 
 ## Build
+To make a build directory for all files
     npm run build
 
 ## Usage
+To run the project locally
     npm start
 
 ## Firebase
