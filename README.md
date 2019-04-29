@@ -2,16 +2,32 @@
 This project, created with *create-react-app*, is imoplemented with React. Then this project uses Progressive Web App to implement native-app features: add to home button, push notification, and offline synchronization. 
 
 ## File Structure
+This project contains fourteen components and five cloud functions. 
 
 ```
 |--public
 |--src
     |--index.js
     |--serviceWorker.js    
-    |--components    
+    |--components 
+       |--AllUsers.js
+       |--App.js
+       |--Comments.js
+       |--Container.js
+       |--Header.js
+       |--Ingredients.js
+       |--Instruction.js
+       |--NavBar.js
+       |--Profile.js
+       |--Recipe.js
+       |--RecipeContent.js
+       |--RecipeContent.js
+       |--Recipes.js
+       |--User.js
     |--firebase 
     |--amazon
 |--functions
+   |--index.js
 ```
 
 ## Prerequisites
