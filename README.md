@@ -11,14 +11,14 @@ To install all the dependencies
 ## Build
 To make a build directory for all files
 
-    ```  
+    ```
     npm run build
     ```
 
 ## Usage
 To run the project locally
 
-  ```  
+  ```
   npm start
   ```
 
