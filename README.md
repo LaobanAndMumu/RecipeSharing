@@ -3,18 +3,21 @@ This project, created with *create-react-app*, is imoplemented with React. Then 
 
 ## Install
 To install all the dependencies 
+
     ```
     npm install
     ```
 
 ## Build
 To make a build directory for all files
+
     ```
     npm run build
     ```
 
 ## Usage
 To run the project locally
+
   ```  
   npm start
   ```
