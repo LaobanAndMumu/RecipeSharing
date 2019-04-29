@@ -1,6 +1,18 @@
 # Recipe Sharing App
 This project, created with *create-react-app*, is imoplemented with React. Then this project uses Progressive Web App to implement native-app features: add to home button, push notification, and offline synchronization. 
 
+## File Structure
+package.json
+|---public
+|---src
+    index.js
+    serviceWorker.js
+    |---components
+    |---firebase
+|---functions
+
+
+
 ## Install
 To install all the dependencies 
   ```
