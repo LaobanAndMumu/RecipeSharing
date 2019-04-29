@@ -15,7 +15,7 @@ This project, created with *create-react-app*, is imoplemented with React. Then 
 ```
 
 ## Prerequisites
-Node.js
+Install Node.js locally
 
 ## Install
 To install all the dependencies 
@@ -36,6 +36,8 @@ To run the project locally
   ```
   npm start
   ```
+## Amazon 
+This project uses Amazon s3 to store video. Change Amazon configuration at `src/amazon/AmazonConfig.js` to your own configuration. 
 
 ## Firebase
 
