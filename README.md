@@ -1,13 +1,11 @@
-# RecipeSharing
-Created with *create-react-app*
-
+# Recipe Sharing App
+This project is reated with *create-react-app*
 
 ## Install
     npm install
 
 ## Build
     npm run build
-
 
 ## Usage
     npm start
