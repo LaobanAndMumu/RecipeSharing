@@ -4,20 +4,13 @@ This project, created with *create-react-app*, is imoplemented with React. Then 
 ## File Structure
 
 ```
-package.json
-
-|---public
-
-|---src
-
-    index.js
-    serviceWorker.js
-    
-    |---components
-    
-    |---firebase
-    
-|---functions
+|--public
+|--src
+    |--index.js
+    |--serviceWorker.js    
+    |--components    
+    |--firebase    
+|--functions
 ```
 
 ## Prerequisites
