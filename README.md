@@ -9,7 +9,8 @@ This project, created with *create-react-app*, is imoplemented with React. Then 
     |--index.js
     |--serviceWorker.js    
     |--components    
-    |--firebase    
+    |--firebase 
+    |--amazon
 |--functions
 ```
 
