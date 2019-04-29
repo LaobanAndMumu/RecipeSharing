@@ -21,20 +21,17 @@ This project uses Firebase, Google Cloud Platform, for hosting and database. To 
 2. Install Firebase CLI through npm
 
     ```
-    npm install -g firebase-tools
-    
+    npm install -g firebase-tools    
     ```
 
 3. Initialize the project 
 
     ```
-    firebase init
-    
+    firebase init    
     ```
 
 4. Deploy the project to Firebase 
 
     ```
-    firebase deploy
-    
+    firebase deploy    
     ```
