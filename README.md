@@ -18,7 +18,7 @@ This project uses Firebase, Google Cloud Platform, for hosting and database. To 
 
 1. Change Firebase configuration to that of your own project at `src/firebase/firebase.js`
 
-2. Install Firebase CLI through npm
+2. At your root directory, install Firebase CLI through npm
 
     ```
     npm install -g firebase-tools    
